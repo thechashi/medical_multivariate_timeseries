@@ -1,4 +1,4 @@
-# Machine Learning Assisted Medicine: Strokes
+# Patient Severity Prediction: Medical Time Series Data
 
 ## Introduction
 
